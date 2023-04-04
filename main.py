@@ -4,7 +4,7 @@ import openai
 import os
 
 # Set up the OpenAI API client
-openai.api_key ="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"
+openai.api_key ="openai_api_key"
 model_engine = "text-davinci-003"  # You can change this to another model if you like
 
 # Define a function to send a prompt to the API and get a response
